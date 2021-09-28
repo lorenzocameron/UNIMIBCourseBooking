@@ -1,0 +1,1 @@
+BASE_URL = r'https://gestioneorari.didattica.unimib.it/PortaleStudentiUnimib/index.php?view=login&include=login&from=prenotalezione&from_include=prenotalezione_home&_lang=it'
